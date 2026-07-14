@@ -1,0 +1,14 @@
+                              Ordered by Beam Material descending Absolute Max Deflection
+
+  Obs    Beam material  Absolute max deflection (mm)  Beam length (m)  Cross-section width (m)  Cross-section height (m)    Flexural rigidity (kN·m²)
+    1  Steel Beam C                           0.6415                6                     0.08                      0.15                         4500
+    2  Wood Beam                             0.36084              4.5                      0.2                       0.3                         4500
+    3  Copper Beam                           0.16199              2.5                      0.1                      0.15                      3093.75
+    4  Aluminum Beam 2                       0.15495                4                     0.18                       0.2                         8280
+    5  Steel Beam A                          0.15035                5                      0.1                       0.2                     13333.33
+    6  Aluminum Beam                         0.14347                3                     0.15                      0.18                       5030.1
+    7  Steel Beam E                           0.1139              5.5                     0.12                      0.22                        21296
+    8  Composite Beam                        0.06757              4.8                     0.14                      0.25                     27343.75
+    9  Steel Beam D                          0.04911              3.5                     0.15                       0.2                        20000
+   10  Steel Beam B                          0.04106                4                     0.12                      0.25                        31250
+

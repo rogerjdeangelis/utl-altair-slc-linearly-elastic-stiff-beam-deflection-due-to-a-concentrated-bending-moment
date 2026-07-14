@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_results_final",
+  "source_file": "utl-altair-slc-linearly-elastic-stiff-beam-deflection-due-to-a-concentrated-bending-moment.sas",
+  "source_blob_sha": "e5fc89ed7246b1beaf60646c0df37adacbef0429",
+  "source_commit": "6d0f25cea9256de1fb6ce141dee1f64b9855b5f6",
+  "notes": "Final LIST OUTPUT stage of the main program (data results_df_final with abs() derived column and labels, proc sort by descending abs_max_deflection_mm, labeled proc print) run standalone. results_df, normally produced by the proc-python analysis under Altair SLC, is stood in as a small fixed frame seeded from the repo's own documented deflection values. Downstream SAS block is verbatim; reproduces the repo's documented descending-deflection ordering."
+}

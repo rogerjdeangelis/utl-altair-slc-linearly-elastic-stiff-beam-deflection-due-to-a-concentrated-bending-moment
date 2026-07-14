@@ -1,0 +1,14 @@
+
+  Obs             Beam  Length of the beam (m)  Young's modulus of the beam material (Pa)  Width of rectangular beam cross-section (m)  Height of rectangular beam cross-section (m)  Beam material type
+-----  ---------------  ----------------------  -----------------------------------------  -------------------------------------------  --------------------------------------------  ------------------
+    1  Steel Beam A                          5                               200000000000                                          0.1                                           0.2  Steel
+    2  Steel Beam B                          4                               200000000000                                         0.12                                          0.25  Steel
+    3  Aluminum Beam                         3                                69000000000                                         0.15                                          0.18  Aluminum
+    4  Wood Beam                           4.5                                10000000000                                          0.2                                           0.3  Wood
+    5  Steel Beam C                          6                               200000000000                                         0.08                                          0.15  Steel
+    6  Steel Beam D                        3.5                               200000000000                                         0.15                                           0.2  Steel
+    7  Copper Beam                         2.5                               110000000000                                          0.1                                          0.15  Copper
+    8  Steel Beam E                        5.5                               200000000000                                         0.12                                          0.22  Steel
+    9  Aluminum Beam 2                       4                                69000000000                                         0.18                                           0.2  Aluminum
+   10  Composite Beam                      4.8                               150000000000                                         0.14                                          0.25  Composite
+

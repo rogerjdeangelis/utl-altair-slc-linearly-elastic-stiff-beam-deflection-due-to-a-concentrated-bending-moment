@@ -1,0 +1,29 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T043649Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: Option VALIDVARNAME changed to V7.
+NOTE: DATA results_df
+
+NOTE: Processing inline DATALINES (10 lines)
+
+NOTE: Read 10 rows from DATALINES.
+NOTE: Wrote results_df (10 rows, 13 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA results_df_final
+
+
+NOTE: Read 10 rows from results_df.
+NOTE: Wrote results_df_final (10 rows, 14 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=results_df_final
+
+NOTE: Read 10 rows from results_df_final.
+NOTE: Wrote results_df_final (10 rows, 14 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC PRINT data=results_df_final
+
+NOTE: PROC PRINT completed: 10 observations printed, 6 variables
