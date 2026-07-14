@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_beam_inp",
+  "source_file": "utl-altair-slc-linearly-elastic-stiff-beam-deflection-due-to-a-concentrated-bending-moment.sas",
+  "source_blob_sha": "e5fc89ed7246b1beaf60646c0df37adacbef0429",
+  "source_commit": "6d0f25cea9256de1fb6ce141dee1f64b9855b5f6",
+  "notes": "Input beam table (data step with cards4 + labeled proc print) from the repo's main program, run standalone. Only change: the workx libname (an autoexec-defined path to d:/wpswrkx) is dropped so the dataset lands in WORK. Data and logic are the author's verbatim."
+}
